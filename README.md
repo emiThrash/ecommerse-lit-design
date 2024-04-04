@@ -8,9 +8,8 @@ Bienvenido a LIT Designs, una aplicación móvil desarrollada en React Native y 
 
 - [ ] Explora una amplia gama de servicios de diseño gráfico y Desarrollo Web y de App´s.
 - [ ] Realiza búsquedas y filtra resultados según tus necesidades.
-- [ ] Visualiza ejemplos de trabajos anteriores de los diseñadores.
 - [ ] Proceso de compra sencillo y seguro.
-- [ ] Notificaciones para mantener a los usuarios informados sobre el progreso de sus pedidos.
+
 
 
 ## Instalación
